@@ -445,9 +445,6 @@ Here is the demo. I use the above code in my project Todo app
 
 [Live Preview](http://todo-appes.herokuapp.com/)
 
-### GitHub repo. 
-
-{% github atultyagi612/Google-Authentication-nodejs no-readme %}
 
 
 
