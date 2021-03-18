@@ -307,7 +307,7 @@ module.exports = function (passport) {
 } 
 ```
 
-##User model
+## User model
 
 Now its time to create our database model to user user data in database.
 
@@ -349,9 +349,9 @@ required: true,
 module.exports = mongoose.model('User', UserSchema)
 
 ```
-###Good news at that time all the routes,models,and middlewares are ready the only things is ready is out HTML(EJS) Pages.
+### Good news at that time all the routes,models,and middlewares are ready the only things is ready is out HTML(EJS) Pages.
 
-##Login and main pages
+## Login and main pages
 
 Now its time to create our login page using bootstrap.
 
@@ -429,17 +429,17 @@ file:`views/index.ejs`
 </html>
 ```
 
-######Preview
+###### Preview
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/um4gspxr4qy7max327rr.gif)
 
-####🎉🎉
+#### 🎉🎉
 
-####Our  Google Authentication App is ready .
+#### Our  Google Authentication App is ready .
 
 Now its your time to use that amazing Middleware `passport.js` Good Luck 😎🎶
 
-##Live Preview
+## Live Preview
 
 Here is the demo. I use the above code in my project Todo app 
 
